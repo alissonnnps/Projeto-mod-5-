@@ -32,10 +32,10 @@ Matricula
 instalar dependências:
 nmp install
 
-Instalar dependências principais (caso necessário)
+Instalar dependências principais: (caso necessário)
 npm install express sequelize sqlite3
 
-Inicializar o Sequelize 
+Inicializar o Sequelize: 
 npx sequelize-cli init
 
 -------- Criação dos Models e Migrations -------
